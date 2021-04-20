@@ -6,6 +6,7 @@ When I go crazy I like to experiment with the C derivatives and have fun with cs
 looking forward to learn JS sooner or later.
 My linkedin is: www.linkedin.com/in/antonio-puzalkov
 
+PROJECTS UNDER DEVELOPMENT ARE EITHER PRIVATE OR NOT PUBLISHED - UNLESS NEEDED
 
 
 <!---
